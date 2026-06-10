@@ -9,10 +9,10 @@ He is an incoming Ph.D. student in the Department of Earth and Planetary Science
 Email: senli[at]fas.harvard.edu
 
 #### Education
-M.E. in Computer Science and Technology
+M.E. in Computer Science and Technology,
 China University of Mining and Technology, 2022–2025
 
-B.E. in Data Science and Big Data Technology
+B.E. in Data Science and Big Data Technology,
 China University of Mining and Technology, 2018–2022
 
 #### Research Interests
