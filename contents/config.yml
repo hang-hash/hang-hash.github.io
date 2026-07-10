@@ -1,5 +1,5 @@
-title: Er Xiong's Homepage
-page-top-title: Er Xiong
+title: Lin Wang's Homepage
+page-top-title:Lin Wang
 top-section-bg-text: Data Science
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title:Er Xiong&ensp;|&ensp;熊二
+    title:Lin Wang&ensp;|&ensp;王林
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
