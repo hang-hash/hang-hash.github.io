@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 title: Sang Zhang's Homepage
 page-top-title: San Zhang
+=======
+title: User Name's Homepage
+page-top-title: User Name
+>>>>>>> 332fdb34c59cb694ab23847e2de20b080fde3822
 top-section-bg-text: Computer Science
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -16,7 +21,11 @@ license-link:
 sections:
   - id: home
     nav: HOME
+<<<<<<< HEAD
     title: Sang Zhang&ensp;|&ensp;张三
+=======
+    title: User Name&ensp;|&ensp;姓名
+>>>>>>> 332fdb34c59cb694ab23847e2de20b080fde3822
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
