@@ -1,4 +1,4 @@
-title: San Zhang's Homepage
+title: Sang Zhang's Homepage
 page-top-title: San Zhang
 top-section-bg-text: Computer Science
 backgrounds:
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: San Zhang&ensp;|&ensp;张三
+    title: Sang Zhang&ensp;|&ensp;张三
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
