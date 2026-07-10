@@ -1,5 +1,5 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
+title: Lin Wang's Homepage
+page-top-title: Lin Wang
 top-section-bg-text: Data Science
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Sen Li&ensp;|&ensp;王林
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS

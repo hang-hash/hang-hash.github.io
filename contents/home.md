@@ -10,10 +10,10 @@ Email: senli[at]fas.harvard.edu
 
 #### Education
 M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+China University of Mining and Technology, 2020–2028\
 
 B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+China University of Mining and Technology, 2018–2020
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
